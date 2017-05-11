@@ -1,0 +1,7 @@
+#Thu May 11 16:29:58 BRT 2017
+base.0=D\:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a4f5aac1ea8c4ffa3790353f1737d9a5762e3b46
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c6caa37f3076074341bf3677cc33028f489725a3\\classes.dex
+base.1=D\:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c6caa37f3076074341bf3677cc33028f489725a3
+file.0=D\:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a4f5aac1ea8c4ffa3790353f1737d9a5762e3b46\\classes.dex

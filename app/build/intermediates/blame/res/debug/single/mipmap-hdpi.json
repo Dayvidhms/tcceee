@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_alert.png",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\mipmap-hdpi\\ic_alert.png"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_logo.png",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\mipmap-hdpi\\ic_logo.png"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]

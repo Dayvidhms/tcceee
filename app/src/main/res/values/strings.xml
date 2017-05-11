@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Nome Aplicativo</string>
+    <string name="hint_email">Email:</string>
+    <string name="hint_senha">Senha:</string>
+    <string name="hint_cnpj">CNPJ:</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="cadastrar_login">Cadastre-se aqui</string>
+    <!--<string name="title_activity_main">MainActivity</string>-->
+    <string name="nome_aplicativo">Nome do Aplicativo</string>
+    <string name="email_aplicativo">contato@nomedoaplicativo.com.br</string>
+
+    <string name="text_sobre">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Donec nisi felis, condimentum ac tristique a, porta id ante. Aenean dignissim mi
+        ut dolor tristique, nec congue velit consectetur. Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Vestibulum dapibus est nec auctor eleifend. Sed a leo
+        felis. Proin porttitor nisi lacus. Ut vel mollis libero.
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Donec nisi felis, condimentum ac tristique a, porta id ante. Aenean dignissim mi
+        ut dolor tristique, nec congue velit consectetur. Lorem ipsum dolor sit amet,
+        consectetur adipiscing elit. Vestibulum dapibus est nec auctor eleifend. Sed a leo
+        felis. Proin porttitor nisi lacus. Ut vel mollis libero.</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_sobre_nos">Sobre Nós</string>
+
+    <string name="title_activity_operacoes">Nome do Aplicativo</string>
+    <string name="title_activity_add_item_">AddItem_Activity</string>
+
+    <string name="action_settings">Settings</string>
+
+
+</resources>

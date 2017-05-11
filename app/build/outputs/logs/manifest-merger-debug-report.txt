@@ -1,0 +1,92 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:5:5-31:19
+MERGED from [com.android.support:design:23.3.0] C:\Users\dayvid\.android\build-cache\000aac107e3af5f68e2c763221a8b00f5c407010\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\dayvid\.android\build-cache\5de586aca16bd2825de2d99983bd840ae667bac9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\dayvid\.android\build-cache\a21d7c2a32459706ae66774821dc6d4fafaf42f6\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\dayvid\.android\build-cache\e202bf888d08823f9e12c55debbe06c5f9566b42\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\dayvid\.android\build-cache\1a2c1876142eac9f226172ee9041a80b3bb4e1c6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dayvid\.android\build-cache\d92e047b2df5280a79ae4a3dabfd5b1498cd277e\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:7:9-39
+	android:theme
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.felipe.tsttcc.LoginActivity
+ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:11:19-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.felipe.tsttcc.CadastroActivity
+ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:18:9-54
+	android:name
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:18:19-51
+activity#com.example.felipe.tsttcc.SobreNosActivity
+ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:19:9-22:59
+	android:label
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:21:13-61
+	android:theme
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:22:13-56
+	android:name
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:20:13-45
+activity#com.example.felipe.tsttcc.OperacoesActivity
+ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:23:9-26:59
+	android:label
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:25:13-61
+	android:theme
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:24:13-46
+activity#com.example.felipe.tsttcc.AddItem_Activity
+ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:27:9-30:68
+	android:label
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:29:13-61
+	android:theme
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml:28:13-45
+uses-sdk
+INJECTED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.3.0] C:\Users\dayvid\.android\build-cache\000aac107e3af5f68e2c763221a8b00f5c407010\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.3.0] C:\Users\dayvid\.android\build-cache\5de586aca16bd2825de2d99983bd840ae667bac9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] C:\Users\dayvid\.android\build-cache\a21d7c2a32459706ae66774821dc6d4fafaf42f6\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] C:\Users\dayvid\.android\build-cache\e202bf888d08823f9e12c55debbe06c5f9566b42\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.3.0] C:\Users\dayvid\.android\build-cache\f01d2a821fc8394afa2f107d7449de346d080b87\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.3.0] C:\Users\dayvid\.android\build-cache\1a2c1876142eac9f226172ee9041a80b3bb4e1c6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\dayvid\.android\build-cache\d92e047b2df5280a79ae4a3dabfd5b1498cd277e\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.3.0] C:\Users\dayvid\.android\build-cache\5de586aca16bd2825de2d99983bd840ae667bac9\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Documentos\androidStudio\TstTCC\app\src\main\AndroidManifest.xml

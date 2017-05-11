@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\dayvid\\.android\\build-cache\\5de586aca16bd2825de2d99983bd840ae667bac9\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\dayvid\\.android\\build-cache\\5de586aca16bd2825de2d99983bd840ae667bac9\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_send.xml",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\drawable-v21\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_slideshow.xml",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\drawable-v21\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_camera.xml",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\drawable-v21\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_share.xml",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\drawable-v21\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_manage.xml",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ic_menu_gallery.xml",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\drawable-v21\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\dayvid\\.android\\build-cache\\5de586aca16bd2825de2d99983bd840ae667bac9\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

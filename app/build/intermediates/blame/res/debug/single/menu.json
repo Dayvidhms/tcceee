@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_operacoes_drawer.xml",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\menu\\activity_operacoes_drawer.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_add_item__drawer.xml",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\menu\\activity_add_item__drawer.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sobre_nos.xml",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\menu\\sobre_nos.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\add_item_.xml",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\menu\\add_item_.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_sobre_nos_drawer.xml",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\menu\\activity_sobre_nos_drawer.xml"
+    },
+    {
+        "merged": "D:\\Documentos\\androidStudio\\TstTCC\\app\\build\\intermediates\\res\\merged\\debug\\menu\\operacoes.xml",
+        "source": "D:\\Documentos\\androidStudio\\TstTCC\\app\\src\\main\\res\\menu\\operacoes.xml"
+    }
+]

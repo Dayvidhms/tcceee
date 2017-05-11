@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.felipe.tsttcc"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="23" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.felipe.tsttcc.LoginActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.felipe.tsttcc.CadastroActivity" />
+        <activity
+            android:name="com.example.felipe.tsttcc.SobreNosActivity"
+            android:label="@string/title_activity_sobre_nos"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.felipe.tsttcc.OperacoesActivity"
+            android:label="@string/title_activity_operacoes"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.felipe.tsttcc.AddItem_Activity"
+            android:label="@string/title_activity_add_item_"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.example.felipe.tsttcc.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>
